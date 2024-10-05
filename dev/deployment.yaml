@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sabair03609/hiring-app:36
+        image: ganesh034/hiring-app:7
         ports:
         - containerPort: 8080
